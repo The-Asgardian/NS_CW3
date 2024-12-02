@@ -14,3 +14,7 @@ When the backend responds, the load balancer modifies the source IP and MAC to `
 ![](Capture2.PNG)
 ![](Capture3.PNG)
 ![](Capture4.PNG)
+
+---
+**sudo tcpdump -i eth0 -nn -tttt**
+![](Capture5.PNG)
